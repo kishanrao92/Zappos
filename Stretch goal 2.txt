@@ -1,0 +1,12 @@
+1)Venkatesh: 
+Game- Tictactoe
+2 player game where the goal is to get 3 symbols in a straight line. If no player wins and the grid fills up the game is a draw.
+
+2)Rishabh:
+Game-Tictactoe
+2 player game where the goal is to get 3 symbols in a straight line. 
+
+
+3)Kyle:
+Game-Tictactoe(ZigZagZoe)
+Reguar ticktactoe with an added twist of a storyline.

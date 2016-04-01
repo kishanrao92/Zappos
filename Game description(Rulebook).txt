@@ -1,0 +1,7 @@
+Roll A Ball:
+
+The objective of the game is to get the required number of points by rolling a ball into a set of cubes. Each cube would count as one point  and the user wins if he gets the required number of points before the timer runs down.
+
+The user can choose between Easy and Hard levels and user input is taken from the keyboard using arrow keys or the w,a,s,d combination.
+
+If the timer runs down then the user loses the game.
